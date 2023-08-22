@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IEA-dday/static/css/main.956468d6.css",
+    "main.js": "/IEA-dday/static/js/main.0e7e19bc.js",
+    "static/media/mainLogo.png": "/IEA-dday/static/media/mainLogo.efbc68ca858a58b4fb57.png",
+    "static/media/Picture1.png": "/IEA-dday/static/media/Picture1.993368cafa51975e5a55.png",
+    "static/media/Picture3.png": "/IEA-dday/static/media/Picture3.c6d612f65d8f3ad81a51.png",
+    "index.html": "/IEA-dday/index.html",
+    "main.956468d6.css.map": "/IEA-dday/static/css/main.956468d6.css.map",
+    "main.0e7e19bc.js.map": "/IEA-dday/static/js/main.0e7e19bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.956468d6.css",
+    "static/js/main.0e7e19bc.js"
+  ]
+}
